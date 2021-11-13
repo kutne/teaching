@@ -54,16 +54,16 @@ Let’s talk about plagiarism. We often talk about it as an ethical question. Ar
 Introductions
 
 ##### WEEK 2: SEPTEMBER 15TH 
-Metcalf and Metcalf: Ch1 Sultans, Mughals, & Pre-Colonial Indian Society, p 14-28    
-Nesbitt: p1-11    
-Knott: 1-9, 62-73    
-Silverstein: 1-7, 9-19    
-Watch:	“Mughal Empire & Historical Reputation” 
+- Metcalf and Metcalf: Ch1 Sultans, Mughals, & Pre-Colonial Indian Society, p 14-28    
+- Nesbitt: p1-11    
+- Knott: 1-9, 62-73    
+- Silverstein: 1-7, 9-19    
+- Watch:	“Mughal Empire & Historical Reputation” 
 
 ##### WEEK 3: SEPTEMBER 22ND 
-Truschke, p 1-108    
-Khilnani: Dara Shikoh    
-McDermott:  p1-5    
+- Truschke, p 1-108    
+- Khilnani: Dara Shikoh    
+- McDermott:  p1-5    
 
 ##### WEEK 4: SEPTEMBER 29TH 
 Metcalf and Metcalf: Ch 2 Mughal Twilight, p 29-55    
@@ -71,50 +71,50 @@ Khilnani: Nainsukh and William Jones, 145-157
 McDermott:  62-71    
 
 ##### WEEK 5: OCTOBER 6TH 
-Metcalf and Metcalf: Ch 3 The East India Company Raj, p 56-91    
-Khilnani: Rammohan Roy, p 158-164    
-McDermott:  72-78    
-Watch: “Buddha & Ashoka” (<13 min)    
+- Metcalf and Metcalf: Ch 3 The East India Company Raj, p 56-91    
+- Khilnani: Rammohan Roy, p 158-164    
+- McDermott:  72-78    
+- Watch: “Buddha & Ashoka” (<13 min)    
 
 ##### WEEK 6: OCTOBER 13TH 
-Course Reader: Said, introduction & chapter 1, of _Orientalism_    
-McDermott:  332-337   
+- Course Reader: Said, introduction & chapter 1, of _Orientalism_    
+- McDermott:  332-337   
 
 ##### WEEK 7: OCTOBER 20TH 
-Metcalf and Metcalf: Ch 4 Revolt, Modern State, & Colonized Subjects, p 92-122   
-Khilnani: Lakshmi Bai, p 165-171   
-McDermott:  p96-115   
+- Metcalf and Metcalf: Ch 4 Revolt, Modern State, & Colonized Subjects, p 92- 122   
+- Khilnani: Lakshmi Bai, p 165-171   
+- McDermott:  p96-115   
 
 ##### WEEK 8: OCTOBER 27TH 
-Course Reader: Cohn, Chapter 1 & 2, _Colonialism and Its Forms of Knowledge_   
+- Course Reader: Cohn, Chapter 1 & 2, _Colonialism and Its Forms of Knowledge_   
 
 ##### WEEK 9: NOVEMBER 3RD 
-Metcalf and Metcalf: Ch 5 Civil Society, Colonial Constraints, p 123-166   
-Khilnani: Jyotiro Phule, p 172-179   
-McDermott:  160-165   
+- Metcalf and Metcalf: Ch 5 Civil Society, Colonial Constraints, p 123-166   
+- Khilnani: Jyotiro Phule, p 172-179   
+- McDermott:  160-165   
 
 ##### WEEK 10: NOVEMBER 10TH 
-Course Reader: Lal, "Crawling Lane"   
-McDermott:  350-357, 414-421   
-Watch	“Indus Valley Civilization” (<13 min)   
+- Course Reader: Lal, "Crawling Lane"   
+- McDermott:  350-357, 414-421   
+- Watch	“Indus Valley Civilization” (<13 min)   
 
 ##### WEEK 11: NOVEMBER 17TH 
-Metcalf and Metcalf: Ch 6 The Crisis Of The Colonial Order, p 167-202   
-Khilnani: Ambedkar, p 316-325   
-McDermott:  421-432, 528-536   
+- Metcalf and Metcalf: Ch 6 The Crisis Of The Colonial Order, p 167-202   
+- Khilnani: Ambedkar, p 316-325   
+- McDermott:  421-432, 528-536   
 
 ##### WEEK 12: NOVEMBER 24TH 
 -- no in person class --
-Watch: Watch	_Gandhi_ (< 3 hours)   
+- Watch: Watch	_Gandhi_ (< 3 hours)   
 
 ##### WEEK 13: DECEMBER  1ST 
-Course Reader: Amin, "Gandhi as Mahatma"   
+- Course Reader: Amin, "Gandhi as Mahatma"   
 
 ##### WEEK 14: DECEMBER 8TH 
-Metcalf and Metcalf: Ch 7 The 1940s: Triumph And Tragedy, p 203-230   
-McDermott:  583-590   
+- Metcalf and Metcalf: Ch 7 The 1940s: Triumph And Tragedy, p 203-230   
+- McDermott:  583-590   
 
 ##### WEEK 15: DECEMBER 15TH  
-Course Reader: Gilmartin, "Partition Historiography"   
-McDermott:  439-443   
+- Course Reader: Gilmartin, "Partition Historiography"   
+- McDermott:  439-443   
 **Final Project Due**
