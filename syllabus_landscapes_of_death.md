@@ -25,7 +25,7 @@ All other materials will be available online, either via link or uploaded online
 
 ### How You’ll Know You’re Learning
 | Grade Structure |
-| -- | 
+| --- | 
 | Assignment #1:	5% |
 | Assignment #2:	15% |
 | Assignment #3:	15% |
