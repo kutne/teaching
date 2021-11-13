@@ -1,9 +1,9 @@
-# HIST 3420
+# HIST 3420:  
 # HISTORY OF MODERN SOUTH ASIA, 1526 – 1947
 
-[Cornell Prison Education Program](https://cpep.cornell.edu/)
-Auburn Correctional Facility
-Fall 2021
+[Cornell Prison Education Program](https://cpep.cornell.edu/)  
+Auburn Correctional Facility  
+Fall 2021  
 
 ### COURSE DESCRIPTION
 This course gives a broad overview of the history of the South Asian subcontinent from the start of the Mughal empire to its partitioning into India and Pakistan. Prominent themes in the course include shifting forms of governance, the emergence of religious and regional identities, social reform and the “woman question,” deindustrialization, and nationalism. Students will also learn about the practice of history more broadly, including how to read primary and secondary texts, how to weigh evidence, and how to formulate coherent historical arguments.
