@@ -1,5 +1,4 @@
-# HIST 3420:  
-# HISTORY OF MODERN SOUTH ASIA, 1526 – 1947
+# HIST 3420: HISTORY OF MODERN SOUTH ASIA, 1526 – 1947
 
 [Cornell Prison Education Program](https://cpep.cornell.edu/)  
 Auburn Correctional Facility  
