@@ -24,14 +24,16 @@ These are books we will be reading in their entirety. You may purchase them used
 All other materials will be available online, either via link or uploaded online
 
 ### How You’ll Know You’re Learning
-| Grade Structure |  | 
+| Grade Structure |  |
 | --- | --- |
-| Assignment 1 |	5% |
-| Assignment 2 |	15% |
-| Assignment 3 |	15% |
-| Assignment 4 |	15% |
-| Assignment 5 |	25% |
-| Participation: |	25% |
+| Assignment 1  | 10%  |
+| Assignment 2 | 15%  |
+| Assignment 3  | 15%  |
+| Assignment 4  |  15% |
+| Assignment 5  |  25% |
+| Participation  |  25% |
+
+
 
 
 **Participation**: This is your single most important “civic responsibility” within the course. As a seminar, we are a community of individuals collectively pursuing intellectual growth. As such, each member of this scholarly community has a responsibility to themselves and the other members to complete all relevant assignments and to come to class meetings prepared to discuss the reading respectfully and honestly. The participation grade includes attendance, in-class activities, quizzes, rough drafts, and written homework.
