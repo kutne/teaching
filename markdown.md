@@ -4,3 +4,7 @@
 #### 4 hashtag
 ##### 6 hashtag
 ###### 7 hashtag
+
+plain
+_italics_
+**bold**
