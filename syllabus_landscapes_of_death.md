@@ -1,4 +1,4 @@
-ModelsNarrative # Hist 1200 Landscapes Of Death: Cemeteries, Massacres, & Memorial Sites     
+# Hist 1200 Landscapes Of Death: Cemeteries, Massacres, & Memorial Sites     
 [First-Year Writing Seminar](https://knight.as.cornell.edu/fws-guidelines)     
 Spring 2020 | MWF 9:05-9:55 
 
