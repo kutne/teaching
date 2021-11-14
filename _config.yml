@@ -1,3 +1,6 @@
+baseurl: "/teaching/"
+remote_theme: chauff/cse-theme
+
 collections:
   lectures:
     output: true
@@ -48,6 +51,3 @@ kramdown:
       line_numbers: false
     block:
       line_numbers: true
-
-baseurl: "/teaching/"
-remote_theme: chauff/cse-theme
