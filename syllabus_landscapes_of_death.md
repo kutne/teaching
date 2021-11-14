@@ -105,7 +105,8 @@ All items with an asterisk (*) are available on Canvas under Library Reserves. A
 #### Week-by-Week Schedule
 ##### Week #1: Introductions	
 
-###### Wednesday, January 22		First class! No homework!
+###### Wednesday, January 22		
+_First class! No homework!_
 
 ###### Friday, January 24		
 Read:
@@ -114,6 +115,7 @@ Read:
 
 Listen:
 - Codeswitch, ‘What our monuments (don’t) teach us about remembering the past,’	
+
 ##### Week #2: Why do the dead matter?	
 ###### Monday, January 27		
 Read:
@@ -129,7 +131,9 @@ Read:
 ###### Friday, January 31		
 Read:
 - Trouillot, ‘Chapter 2: The Three Faces of Sans Souci’	
-Assignment #1 Due (10pm Thursday)
+
+_Assignment #1 Due (10pm Thursday)_
+
 ##### Week #3: Necropolitics	
 ###### Monday, February 3		
 Read:
@@ -150,6 +154,7 @@ Listen:
 - Spain Exhumes Former Dictator Francisco Franco's Remains 
 
 _Complete Zotero set-up_
+
 ##### Week # 4: Necropolitics (Part 2)	
 ###### Monday, February 10		
 Read:
@@ -188,23 +193,27 @@ Listen:
 - Criminal, Episode 68: All the Time in the World
 
 _Submit choice for final project_
+
 ##### Week # 6: New York’s Own Dead	
 ###### Monday, February 24		
+
 _FEB BREAK – NO CLASS_	
 
 ###### Wednesday, February 26	
 Read:
 - Graff/Birkenstein, ‘Chapter 4: yes/no/okay, but’	
-Draft Assignment #3 Due
+_Draft Assignment #3 Due_
 
 ###### Friday, February 28    
 _Meet in Library_	  				
 Read:
 - ‘Schuyler Flatts Burial Ground | The New York State Museum’ .
 - African American Burial Ground
+
 ##### Week # 7: Race and Erasure	
 ###### Monday, March 2		
 _Guest Lecture On Indigenous Cemeteries In Ithaca_   
+
 Watch:
 - Jordan, ‘Destroyed, Forgotten, Never Noted: Ithaca's Hidden Indigenous History’* 
 
@@ -214,6 +223,7 @@ Read:
 _Peer Feedback Due on Draft Assignment #3_
 
 ###### Wednesday, March 4		
+
 Watch:  
 - HistoryMakers Playlist: Oak Woods Cemetery
 
@@ -229,7 +239,9 @@ _Assignment #3 Due_
 
 ##### Week #8: The War Dead	
 ###### Monday, March 9		
+
 _Meet @ Makerspace, Mann Library_    	
+
 Watch:
 - ‘Death and the Civil War’* 
 
@@ -239,6 +251,7 @@ Read:
 _Exhibit Proposal Due_
 
 ###### Wednesday, March 11		
+
 Read:
 - Barrett, ‘‘White Graves’ and Natives’* 
 - Graff/Birkenstein, ‘Chapter 6: skeptics may object’	
@@ -248,8 +261,10 @@ Read:
 - Wright, ‘How Should a Nation Remember Its Wars?’*	
 
 _Draft Assignment #4 Due_   
+
 ##### Week # 9: Genocide	
 ###### Monday, March 16		
+
 Read:
 - Young, 'Introduction to Texture of Memory'*
 - Dreyfus, ‘The Transfer of Ashes after the Holocaust in Europe, 1945–60’.* 
@@ -258,7 +273,9 @@ Read:
 _Peer Feedback Assignment #4 Due_
 
 ###### Wednesday, March 18		
+
 _Meet in Map Room in Olin Library_	
+
 Read:
 - Jacoby, ‘Introduction’    
 
@@ -271,15 +288,18 @@ _Assignment #4 Due_
 
 ##### Week # 10: Genocide Part 2
 ###### Monday, March 23		
+
 Read:
 - Caswell, selections from _Archiving the Unspeakable_
 
 ###### Wednesday, March 25		
+
 Read:
 - Korman, ‘‘Mobilising the dead? The place of bones and corpses in the commemoration of the Tutsi genocide in Rwanda’*
 - Graff/Birkenstein, ‘Chapter 8: as a result’	
 
 ###### Friday, March 27		
+
 Read:
 - Doughty, ‘Introduction’	
 
@@ -290,6 +310,7 @@ _SPRING BREAK!_
 
 ##### Week # 11: Every Day Dead	
 ###### Monday, April 6			
+
 Read:
 - Doughty, ‘Colorado: Crestone’ Doughty, ‘Indonesia: South Sulawesi’ Doughty, ‘Mexico: Michoacán'	
 
@@ -306,24 +327,29 @@ Read:
 - Prendergast, ‘My Father’s Lost and Found Corpse.’
 
 _Exhibit Narrative Rough Draft + Model Status Report Due_
+
 ##### Week # 12: Absence and Presence	
 ###### Monday, April 13		
+
 Read:
 - Krause, ‘Bodies Count’*
 - Auchter, ‘Dead Body Politics‘.	
 
 ###### Wednesday, April 15		
+
 Read:
 - Graff/Birkenstein, 'Chaper 14: what's motivating this writing'
 Watch
 - “Mapping the Fate of the Dead “(North Korea)	
 
 ###### Friday, April 17			
+
 Read:
 - Introduction to Chinese Deathscapes
 
 ##### Week # 13: Reimaging the landscape	
 ###### Monday, April 20		
+
 Read:
 - ‘‘Guerrilla’ Blue Plaques Mark City’s Women.’*
 - Friedersdorf, ‘The Case for Subversive Monuments in Washington, D.C.’*	
@@ -331,23 +357,31 @@ Read:
 _Exhibit Models Due_ 
 
 ###### Wednesday, April 22		  
+
 Listen:
 - 99% Invisible, Episode 273: Notes on an Imagined Plaque	
 
 ###### Friday, April 24			
+
 Read:  
 - Gaiman, ‘How Nobody Came to the Graveyard’	
 
 _Exhibit Narrative Due_ 
+
 ##### Week # 14: Dark Tourism	
 ###### Monday, April 27		
+
 Read: 
-- Keil, ‘Sightseeing in the Mansions of the Dead’* Hartman, ‘Dark Tourism’*	
+- Keil, ‘Sightseeing in the Mansions of the Dead’* 
+- Hartman, ‘Dark Tourism’*	
 
 ###### Wednesday, April 29		
+
 Listen:  
-- Death in the Afternoon: Is That a Corpse in my Culture? Read
-Graff/Birkenstein, ch 15: on closer examination (18 pages)	
+- Death in the Afternoon: Is That a Corpse in my Culture? 
+
+Read:
+- Graff/Birkenstein, ch 15: on closer examination (18 pages)	
 
 ###### Friday, May 1			
 
@@ -358,6 +392,7 @@ Listen:
 
 ##### Week # 15: Conclusion
 ###### Monday, May 4			
+
 Read:
 - Gaiman, ‘Chapter 2: The New Friend’	  
 
