@@ -24,6 +24,7 @@ These are books we will be reading in their entirety. You may purchase them used
 All other materials will be available online, either via link or uploaded online
 
 ### How You’ll Know You’re Learning
+
 | Grade Structure |  |
 | --- | --- |
 | Assignment 1  | 10%  |
